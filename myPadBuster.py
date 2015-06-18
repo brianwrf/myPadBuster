@@ -2,8 +2,8 @@
 # -*- coding:utf8 -*-
 
 # Description: vuln scanning for ASP.NET padding oracle
-# Author: renfei
-# Date: 2015.06.17
+# Author: avfisher
+# Date: 2015.06.18
 # Reference: http://www.secpulse.com/archives/3537.html
 
 import urllib2
