@@ -17,12 +17,12 @@ Options:
     -p url, --padbuster=url                        Brute force Web.config by single encrypted value to be analyzed
 
 Examples:
-    myPadBuster.py -u http://www.example.com/login.aspx"
-    myPadBuster.py -w /usr/home/urls.txt"
-    myPadBuster.py -s http://www.example.com/WebResource.axd?d=LElgggssFFdff99"
-    myPadBuster.py -m c:\windows\webresource.txt"
-    myPadBuster.py -p http://www.example.com/ScriptResource.axd?d=LElgggssFFdff99AAAAAAAAAAAAAAAAAA0"
+    myPadBuster.py -u http://www.example.com/login.aspx
+    myPadBuster.py -w /usr/home/urls.txt
+    myPadBuster.py -s http://www.example.com/WebResource.axd?d=LElgggssFFdff99
+    myPadBuster.py -m c:\windows\webresource.txt
+    myPadBuster.py -p http://www.example.com/ScriptResource.axd?d=LElgggssFFdff99AAAAAAAAAAAAAAAAAA0
 
-[!] to see help message of options run with '-h'"
+[!] to see help message of options run with '-h'
 
 PS: 使用前请确保机器上已安装了python和perl。如有任何问题请发邮件至security_alert@126.com。
