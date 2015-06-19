@@ -1,6 +1,6 @@
 # myPadBuster
 
-这是一个基于https://github.com/GDSSecurity/PadBuster而改写的用于测试 ASP.net Padding Oracle漏洞的自动化脚本。
+这是一个基于https://github.com/GDSSecurity/PadBuster 而改写的用于测试 ASP.net Padding Oracle漏洞的自动化脚本。
 
 其在PadBuster.pl的基础上增加了自动扫描和检测多个网站是否存在Padding Oracle漏洞。
 
