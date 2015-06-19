@@ -30,3 +30,5 @@ Examples:
 [!] to see help message of options run with '-h'
 
 PS: 使用前请确保机器上已安装了python和perl。如有任何问题请发邮件至security_alert@126.com。
+
+声明：本工具仅供测试和学习，任何擅自使用本工具对未经合法授权的信息系统进行检测的，均为非法和侵权行为，一切法律后果均由侵权人承担。
