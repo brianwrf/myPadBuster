@@ -2,7 +2,6 @@
 # -*- coding:utf8 -*-
 
 # Description: vuln scanning for ASP.NET padding oracle
-# Author: avfisher
 # Date: 2015.06.18
 # Reference: http://www.secpulse.com/archives/3537.html
 
@@ -103,8 +102,6 @@ def getInjectionPoint(html, para, url):
 def myhelp():
     print "\n+------------------------------+"
     print "|  MyPadBuster v0.0.1            |"
-    print "|  Avfisher - Wooyun.org         |"
-    print "|  security_alert@126.com        |"
     print "|  Referrer: PadBuster - v0.3.3  |"
     print "+--------------------------------+\n"
     print "Usage: myPadBuster.py [options]\n"
